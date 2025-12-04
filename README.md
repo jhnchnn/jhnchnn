@@ -1,7 +1,5 @@
-## Senior Frontend Engineer | React, Next.js
+## Senior Software Engineer
 
-Senior Software Engineer with a decade of experience building high-performance, scalable, and user-centric web applications. My career spans fintech, real estate, and enterprise-scale platforms, where I’ve consistently delivered measurable impact - ranging from boosting engagement and SEO visibility to modernizing legacy systems and driving profitability through innovative UI solutions.
-
-Beyond shipping features, I specialize in creating design systems, internal UI libraries, and developer tooling that elevate team productivity and ensure long-term maintainability. My expertise in React, TypeScript, Next.js, and performance optimization has allowed me to influence engineering standards across organizations, while ensuring accessibility and consistency remain at the core of every solution.
+Experienced full-stack developer with a decade of proven expertise in designing, developing, and delivering high-quality software solutions. Adept at managing all phases of the development lifecycle, from concept and architecture to deployment and maintenance. Strong problem solver with a keen eye for detail and a commitment to writing clean, efficient, and scalable code. Demonstrated ability to collaborate effectively with cross-functional teams to translate business requirements into technical solutions. Passionate about continuous learning and applying best practices to drive innovation and optimize performance.
 
 
